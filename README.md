@@ -10,6 +10,7 @@ The password can include special characters. If you’re unfamiliar with these, 
 
 ## Application Link
 
+(https://ewcode-la.github.io/passwordgen2.github.io/) 
 
 ## Demo
 
